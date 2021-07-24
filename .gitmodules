@@ -1,0 +1,9 @@
+[submodule "digisalad/basic"]
+	path = digisalad/basic
+	url = git@bitbucket.org:digisalad/digisalad-laravel-basic.git
+[submodule "digisalad/package-builder"]
+	path = digisalad/package-builder
+	url = git@bitbucket.org:digisalad/digisalad-laravel-package-builder.git
+[submodule "digisalad/laravel-backpack-extension"]
+	path = digisalad/laravel-backpack-extension
+	url = git@bitbucket.org:digisalad/digisalad-laravel-backpack-extension.git

@@ -1,0 +1,26 @@
+{
+    "name": "digisalad/shop",
+    "description": "DigiSalad Package: Shop",
+    "type": "package",
+    "version": "v0.0.1",
+    "authors": [
+        {
+            "name": "DigiSalad",
+            "email": "dev@digisalad.cool"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Digisalad\\Shop\\": "src/app/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Digisalad\\Shop\\Providers\\PackageServiceProvider"
+            ]
+        }
+    },
+    "require": {
+    }
+}
