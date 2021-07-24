@@ -2,8 +2,8 @@
 
 namespace Digisalad\Shop\Models;
 
-use Digisalad\Basic\Models\BaseModel; 
-use Digisalad\Basic\Traits\MasterTrait; 
+use Digisalad\Basic\Models\BaseModel;
+use Digisalad\Basic\Traits\MasterTrait;
 
 
 /**
@@ -13,6 +13,6 @@ use Digisalad\Basic\Traits\MasterTrait;
 class Product extends BaseModel
 {
     //
-    use MasterTrait; 
-	
+    use MasterTrait;
+
 }
